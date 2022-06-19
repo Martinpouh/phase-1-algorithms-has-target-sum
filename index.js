@@ -22,7 +22,6 @@ hasTargetSum([1, 2, 5], 4);
 // returns false, since no pair of numbers adds up to 4
 */
 
-// You can run `node index.js` to view these console logs
 if (require.main === module) {
     // add your own custom tests in here
     console.log("Expecting: true");
